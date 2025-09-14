@@ -18,7 +18,6 @@ We experiment with three benchmark datasets:
 ---
 
 ## 📊 Results  
-- **Indian Pines:** ~69.6% accuracy, Kappa ≈ 0.67  
-- **Samson & Jasper Ridge:** Achieved **90%+ accuracy** 
-
----
+- **Indian Pines:** Accuracy = **69.61%**, Kappa ≈ **0.67**  
+- **Jasper Ridge:** Accuracy = **98.70%**, Kappa = **0.9815**  
+- **Samson:** Accuracy = **99.39%**, Kappa = **0.9907**  
